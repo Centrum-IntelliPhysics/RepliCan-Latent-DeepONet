@@ -1,19 +1,19 @@
 # RepliCan-Latent-DeepONet
 
-1. General info:
+###1. General info:
 
 This Git repository contains python codes for reproducing the results of Brittle material fracture example in the paper of "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems".
 
 
-2. Methodology:
+###2. Methodology:
 
 <img width="3999" height="1833" alt="image" src="https://github.com/user-attachments/assets/ce04a6ad-d5ca-4d0b-aae4-58edd238902b" />
 
 
-3. Data availability:
+###3. Data availability:
 
 
-4. Getting started:
+###4. Getting started:
 
 1. Create an Anaconda Python 3.8 virtual environment.
 2. Downdoad shear failure dataset from .
@@ -21,7 +21,7 @@ This Git repository contains python codes for reproducing the results of Brittle
 4. Run the shearFailure.ipynb.
 
 
-5. Results:
+###5. Results:
 
 d=9
 <img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
