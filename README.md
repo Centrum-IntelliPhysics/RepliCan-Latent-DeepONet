@@ -2,7 +2,7 @@
 
 ## 1. General info:
 
-This Git repository contains python codes for reproducing the results of Brittle material fracture example in the paper of "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems".
+This repository contains python codes for reproducing the results of Brittle material fracture example in the paper of "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems".
 
 
 ## 2. Methodology:
@@ -13,7 +13,7 @@ This Git repository contains python codes for reproducing the results of Brittle
 ## 3. Data availability:
 
 
-## 4. Getting started:
+## 4. Quick start:
 
 1. Create an Anaconda Python 3.8 virtual environment.
 2. Downdoad shear failure dataset from .
