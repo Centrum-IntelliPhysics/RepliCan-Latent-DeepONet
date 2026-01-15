@@ -13,12 +13,13 @@ This repository contains python codes for reproducing the results of Brittle mat
 
 
 ## 3. Data availability:
+https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQWtR2wQ7ZDVo-bhNIbAay4nUpPLR_3FIkXV24w4Ws?e=sPZtp2
 
 
 ## 4. Quick start:
 
 1. Create an Anaconda Python 3.8 virtual environment.
-2. Downdoad shear failure dataset from .
+2. Downdoad shear failure dataset from “https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQWtR2wQ7ZDVo-bhNIbAay4nUpPLR_3FIkXV24w4Ws?e=sPZtp2”.
 3. Install dependencies in the requirements.txt via pip.
 4. Run the shearFailure.ipynb.
 
