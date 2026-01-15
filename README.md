@@ -33,7 +33,11 @@ d=64
 <img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
 
 Final MSE Comparison:
+
 latent_dim= 9 | Final Test MSE: 0.000139
+
 latent_dim=25 | Final Test MSE: 0.000145
+
 latent_dim=49 | Final Test MSE: 0.000125
+
 latent_dim=64 | Final Test MSE: 0.000225
