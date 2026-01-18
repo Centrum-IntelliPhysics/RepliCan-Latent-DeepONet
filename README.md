@@ -84,55 +84,55 @@ latent_dim=64   |   MSE: 0.000035   |   MSE: 0.000172
 #Random seed=22
 
 d=9
-<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
+<img width="2773" height="820" alt="image" src="https://github.com/user-attachments/assets/4153aefa-54e3-4d07-af37-e98bd64ec1ef" />
 
 d=25
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/fb6bfff2-e8a6-49eb-8a47-6f3878647398" />
 
 d=49
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f7bf5f2c-8a47-4b15-ba94-2f9f0a437a40" />
 
 d=64
-<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
+<img width="2774" height="821" alt="image" src="https://github.com/user-attachments/assets/f9eeee73-2392-4352-ad5d-746a309f52e3" />
 
 Final MSE Comparison:
 
 Latent Dimension|       MLAE        |  Latent DeepONet
 
-latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
+latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000125
 
-latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
+latent_dim=25   |   MSE: 0.000034   |   MSE: 0.000133
 
-latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+latent_dim=49   |   MSE: 0.000035   |   MSE: 0.000133
 
-latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+latent_dim=64   |   MSE: 0.000035   |   MSE: 0.000137
 
 ---
 #Random seed=32
 
 d=9
-<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
+<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/7b90a458-b8a1-46cd-b14a-dde23162dea4" />
 
 d=25
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
+<img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/495bd84e-4f51-4e39-a514-d8c77f196ebe" />
 
 d=49
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
+<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/ed485bc3-d4e8-4e45-9fde-397f183f8a4e" />
 
 d=64
-<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
+<img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/f1511596-6e82-487d-8584-43a579be19c0" />
 
 Final MSE Comparison:
 
 Latent Dimension|       MLAE        |  Latent DeepONet
 
-latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
+latent_dim= 9   |   MSE: 0.000053   |   MSE: 0.000144
 
-latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
+latent_dim=25   |   MSE: 0.000035   |   MSE: 0.000134
 
-latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+latent_dim=49   |   MSE: 0.000034   |   MSE: 0.000140
 
-latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+latent_dim=64   |   MSE: 0.000036   |   MSE: 0.000125
 
 ---
 #Random seed=42
