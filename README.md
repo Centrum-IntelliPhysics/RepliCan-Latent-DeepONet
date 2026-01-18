@@ -160,3 +160,10 @@ latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
 latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
 
 latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+
+<img width="1772" height="1469" alt="image" src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b" />
+
+<img width="1772" height="1469" alt="image" src="https://github.com/user-attachments/assets/f67e5578-242f-4e9e-a19e-9117140abd0c" />
+
+
+
