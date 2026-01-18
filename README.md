@@ -53,7 +53,7 @@ latent_dim=49   |   MSE: 0.000046   |   MSE: 0.000163
 
 latent_dim=64   |   MSE: 0.000040   |   MSE: 0.000163
 
-
+---
 #Random seed=12
 
 d=9
@@ -72,15 +72,15 @@ Final MSE Comparison:
 
 Latent Dimension|       MLAE        |  Latent DeepONet
 
-latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000126
+latent_dim= 9   |   MSE: 0.000044   |   MSE: 0.000126
 
-latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000143
+latent_dim=25   |   MSE: 0.000035   |   MSE: 0.000143
 
-latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000130
+latent_dim=49   |   MSE: 0.000034   |   MSE: 0.000130
 
-latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000172
+latent_dim=64   |   MSE: 0.000035   |   MSE: 0.000172
 
-
+---
 #Random seed=22
 
 d=9
@@ -107,7 +107,7 @@ latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
 
 latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
 
-
+---
 #Random seed=32
 
 d=9
@@ -134,7 +134,7 @@ latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
 
 latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
 
-
+---
 #Random seed=42
 
 d=9
