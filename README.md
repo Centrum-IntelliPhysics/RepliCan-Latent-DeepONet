@@ -26,6 +26,114 @@ https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQ
 
 
 ## 5. Results:
+Random seed=2
+
+d=9
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/83fd0769-3f61-4461-9a13-62c7aed6fccb" />
+
+d=25
+<img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/21b9c366-61e3-432d-a385-0f412f78e5a2" />
+
+d=49
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/81ba0e58-8a2a-4524-8b34-b5f67ba6e88c" />
+
+d=64
+<img width="2783" height="821" alt="image" src="https://github.com/user-attachments/assets/573ac9e2-989a-403d-9a75-015465b46b97" />
+
+Final MSE Comparison:
+
+Latent Dimension|       MLAE        |  Latent DeepONet
+
+latent_dim= 9   |   MSE: 0.000038   |   MSE: 0.000184
+
+latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000175
+
+latent_dim=49   |   MSE: 0.000046   |   MSE: 0.000163
+
+latent_dim=64   |   MSE: 0.000040   |   MSE: 0.000163
+
+
+Random seed=12
+
+d=9
+<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
+
+d=25
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
+
+d=49
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
+
+d=64
+<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
+
+Final MSE Comparison:
+
+Latent Dimension|       MLAE        |  Latent DeepONet
+
+latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
+
+latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
+
+latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+
+latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+
+
+Random seed=22
+
+d=9
+<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
+
+d=25
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
+
+d=49
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
+
+d=64
+<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
+
+Final MSE Comparison:
+
+Latent Dimension|       MLAE        |  Latent DeepONet
+
+latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
+
+latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
+
+latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+
+latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+
+Random seed=32
+
+d=9
+<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
+
+d=25
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
+
+d=49
+<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
+
+d=64
+<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
+
+Final MSE Comparison:
+
+Latent Dimension|       MLAE        |  Latent DeepONet
+
+latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
+
+latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
+
+latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+
+latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
+
+
+Random seed=42
 
 d=9
 <img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
