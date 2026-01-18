@@ -4,6 +4,7 @@
 
 This repository contains python codes for reproducing the results of Brittle material fracture example in the paper of "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems".
 <img width="685" height="530" alt="image" src="https://github.com/user-attachments/assets/26d9c664-6e78-447d-986f-2b4793de99bc" />
+
 <img width="685" height="688" alt="image" src="https://github.com/user-attachments/assets/1ac79c4e-c128-4cf2-8db9-3b87be22d745" />
 
 
@@ -21,7 +22,7 @@ https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQ
 1. Create an Anaconda Python 3.8 virtual environment.
 2. Downdoad shear failure dataset from “https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQWtR2wQ7ZDVo-bhNIbAay4nUpPLR_3FIkXV24w4Ws?e=sPZtp2”.
 3. Install dependencies in the requirements.txt via pip.
-4. Run the shearFailure.ipynb.
+4. Run the shearFailure randomseed2/12/22/32/42.ipynb.
 
 
 ## 5. Results:
