@@ -32,6 +32,7 @@ https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQ
 2. Install dependencies in the 'requirements.txt' via pip.
 3. Downdoad 'shearFailure_merged.mat' dataset from “https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQWtR2wQ7ZDVo-bhNIbAay4nUpPLR_3FIkXV24w4Ws?e=sPZtp2”.
 4. Run the 'shearFailure randomseed2/12/22/32/42.ipynb'.
+5. Run the 'violin plot.ipynb' to generate MSE violin plots for MLAE and Latent DeepONet.
 
 
 ## 5. Results:
