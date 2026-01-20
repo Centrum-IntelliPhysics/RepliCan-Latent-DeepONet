@@ -54,7 +54,7 @@ d = 64
 
 ## Final MSE Comparison — MLAE
 
-| Latent Dimension | Seed 1 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
+| Latent Dimension | Seed 2 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
 |------------------|--------|---------|---------|---------|---------|
 | 9                | 3.8e-05 | 4.4e-05 | 3.5e-05 | 5.3e-05 | 3.5e-05 |
 | 25               | 3.9e-05 | 3.5e-05 | 3.4e-05 | 3.5e-05 | 3.9e-05 |
@@ -64,7 +64,7 @@ d = 64
 
 ## Final MSE Comparison — Latent DeepONet
 
-| Latent Dimension | Seed 1 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
+| Latent Dimension | Seed 2 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
 |------------------|--------|---------|---------|---------|---------|
 | 9                | 1.84e-04 | 1.26e-04 | 1.25e-04 | 1.44e-04 | 1.39e-04 |
 | 25               | 1.75e-04 | 1.43e-04 | 1.33e-04 | 1.34e-04 | 1.45e-04 |
