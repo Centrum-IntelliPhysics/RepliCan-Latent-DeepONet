@@ -38,7 +38,7 @@ https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQ
 
 ## 5. Results:
 
-#Random seed=2
+The code was simulated for 5 random seeds as mentioned in the original paper. Presenting below the replication of Figure 3 with #Random seed=2 for different latent dimensions.
 
 d=9
 <img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/83fd0769-3f61-4461-9a13-62c7aed6fccb" />
@@ -52,122 +52,14 @@ d=49
 d=64
 <img width="2783" height="821" alt="image" src="https://github.com/user-attachments/assets/573ac9e2-989a-403d-9a75-015465b46b97" />
 
-Final MSE Comparison:
 
-Latent Dimension|       MLAE        |  Latent DeepONet
+| Latent Dim | MLAE (Seed 1) | L-DeepONet (Seed 1) | MLAE (Seed 12) | L-DeepONet (Seed 12) | MLAE (Seed 22) | L-DeepONet (Seed 22) | MLAE (Seed 32) | L-DeepONet (Seed 32) | MLAE (Seed 42) | L-DeepONet (Seed 42) |
+|------------|---------------|---------------------|---------------|----------------------|---------------|----------------------|---------------|----------------------|---------------|----------------------|
+| 9          | 3.8e-05       | 1.84e-04            | 4.4e-05       | 1.26e-04             | 3.5e-05       | 1.25e-04             | 5.3e-05       | 1.44e-04             | 3.5e-05       | 1.39e-04             |
+| 25         | 3.9e-05       | 1.75e-04            | 3.5e-05       | 1.43e-04             | 3.4e-05       | 1.33e-04             | 3.5e-05       | 1.34e-04             | 3.9e-05       | 1.45e-04             |
+| 49         | 4.6e-05       | 1.63e-04            | 3.4e-05       | 1.30e-04             | 3.5e-05       | 1.33e-04             | 3.4e-05       | 1.40e-04             | 3.2e-05       | 1.25e-04             |
+| 64         | 4.0e-05       | 1.63e-04            | 3.5e-05       | 1.72e-04             | 3.5e-05       | 1.37e-04             | 3.6e-05       | 1.25e-04             | 3.4e-05       | 2.25e-04             |
 
-latent_dim= 9   |   MSE: 0.000038   |   MSE: 0.000184
-
-latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000175
-
-latent_dim=49   |   MSE: 0.000046   |   MSE: 0.000163
-
-latent_dim=64   |   MSE: 0.000040   |   MSE: 0.000163
-
----
-#Random seed=12
-
-d=9
-<img width="2772" height="821" alt="image" src="https://github.com/user-attachments/assets/1aa13fdc-c8ca-4151-8fdb-79ace1ad0079" />
-
-d=25
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/93667b0e-cb4f-46ee-acf0-ff2c35157aeb" />
-
-d=49
-<img width="2773" height="820" alt="image" src="https://github.com/user-attachments/assets/4233f40c-bab5-4b92-8b50-24d2b67650bb" />
-
-d=64
-<img width="2773" height="820" alt="image" src="https://github.com/user-attachments/assets/bd8864b3-2721-48bb-98e0-5eee3aa6fcc1" />
-
-Final MSE Comparison:
-
-Latent Dimension|       MLAE        |  Latent DeepONet
-
-latent_dim= 9   |   MSE: 0.000044   |   MSE: 0.000126
-
-latent_dim=25   |   MSE: 0.000035   |   MSE: 0.000143
-
-latent_dim=49   |   MSE: 0.000034   |   MSE: 0.000130
-
-latent_dim=64   |   MSE: 0.000035   |   MSE: 0.000172
-
----
-#Random seed=22
-
-d=9
-<img width="2773" height="820" alt="image" src="https://github.com/user-attachments/assets/4153aefa-54e3-4d07-af37-e98bd64ec1ef" />
-
-d=25
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/fb6bfff2-e8a6-49eb-8a47-6f3878647398" />
-
-d=49
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f7bf5f2c-8a47-4b15-ba94-2f9f0a437a40" />
-
-d=64
-<img width="2774" height="821" alt="image" src="https://github.com/user-attachments/assets/f9eeee73-2392-4352-ad5d-746a309f52e3" />
-
-Final MSE Comparison:
-
-Latent Dimension|       MLAE        |  Latent DeepONet
-
-latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000125
-
-latent_dim=25   |   MSE: 0.000034   |   MSE: 0.000133
-
-latent_dim=49   |   MSE: 0.000035   |   MSE: 0.000133
-
-latent_dim=64   |   MSE: 0.000035   |   MSE: 0.000137
-
----
-#Random seed=32
-
-d=9
-<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/7b90a458-b8a1-46cd-b14a-dde23162dea4" />
-
-d=25
-<img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/495bd84e-4f51-4e39-a514-d8c77f196ebe" />
-
-d=49
-<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/ed485bc3-d4e8-4e45-9fde-397f183f8a4e" />
-
-d=64
-<img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/f1511596-6e82-487d-8584-43a579be19c0" />
-
-Final MSE Comparison:
-
-Latent Dimension|       MLAE        |  Latent DeepONet
-
-latent_dim= 9   |   MSE: 0.000053   |   MSE: 0.000144
-
-latent_dim=25   |   MSE: 0.000035   |   MSE: 0.000134
-
-latent_dim=49   |   MSE: 0.000034   |   MSE: 0.000140
-
-latent_dim=64   |   MSE: 0.000036   |   MSE: 0.000125
-
----
-#Random seed=42
-
-d=9
-<img width="2784" height="820" alt="image" src="https://github.com/user-attachments/assets/3dc68e50-0566-4f4d-8cb9-4c9aa1c76edf" />
-
-d=25
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/f6309544-ff93-44a0-a783-bc3bfa69a41b" />
-
-d=49
-<img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/c20d6e96-75ae-4cc9-8d78-ae0b48480212" />
-
-d=64
-<img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
-
-## Final MSE Comparison
-
-| Latent Dimension | MLAE MSE | Latent DeepONet MSE |
-|------------------|----------|---------------------|
-| 9                | 0.000035 | 0.000139            |
-| 25               | 0.000039 | 0.000145            |
-| 49               | 0.000032 | 0.000125            |
-| 64               | 0.000034 | 0.000225            |
 
 
 
