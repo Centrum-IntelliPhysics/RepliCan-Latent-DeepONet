@@ -52,7 +52,7 @@ d = 64
 <img width="2783" height="821" alt="image" src="https://github.com/user-attachments/assets/573ac9e2-989a-403d-9a75-015465b46b97" />
 
 
-# Final MSE Comparison — MLAE
+## Final MSE Comparison — MLAE
 
 | Latent Dimension | Seed 1 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
 |------------------|--------|---------|---------|---------|---------|
@@ -62,7 +62,7 @@ d = 64
 | 64               | 4.0e-05 | 3.5e-05 | 3.5e-05 | 3.6e-05 | 3.4e-05 |
 
 
-# Final MSE Comparison — Latent DeepONet
+## Final MSE Comparison — Latent DeepONet
 
 | Latent Dimension | Seed 1 | Seed 12 | Seed 22 | Seed 32 | Seed 42 |
 |------------------|--------|---------|---------|---------|---------|
@@ -71,7 +71,7 @@ d = 64
 | 49               | 1.63e-04 | 1.30e-04 | 1.33e-04 | 1.40e-04 | 1.25e-04 |
 | 64               | 1.63e-04 | 1.72e-04 | 1.37e-04 | 1.25e-04 | 2.25e-04 |
 
-# Obtaining the top row of Figure 2:
+## Obtaining the top row of Figure 2:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b"
