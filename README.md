@@ -17,7 +17,6 @@ This repository contains Python code for reproducing the results of the Brittle 
 <img width="685" height="530" alt="image" src="https://github.com/user-attachments/assets/26d9c664-6e78-447d-986f-2b4793de99bc" />
 
 
-
 ## 2. Methodology:
 
 <img width="3999" height="1833" alt="image" src="https://github.com/user-attachments/assets/ce04a6ad-d5ca-4d0b-aae4-58edd238902b" />
@@ -38,18 +37,18 @@ https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/zliu274_jh_edu/IQDdOvQ
 
 ## 5. Results:
 
-The code was simulated for 5 random seeds as mentioned in the original paper. Presenting below the replication of Figure 3 with #Random seed=2 for different latent dimensions.
+The code was simulated for 5 random seeds as mentioned in the original paper. Presenting below the replication of Figure 3 with #Random seed=2 for different latent dimensions (d).
 
-d=9
+d = 9
 <img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/83fd0769-3f61-4461-9a13-62c7aed6fccb" />
 
-d=25
+d = 25
 <img width="2783" height="820" alt="image" src="https://github.com/user-attachments/assets/21b9c366-61e3-432d-a385-0f412f78e5a2" />
 
-d=49
+d = 49
 <img width="2774" height="820" alt="image" src="https://github.com/user-attachments/assets/81ba0e58-8a2a-4524-8b34-b5f67ba6e88c" />
 
-d=64
+d = 64
 <img width="2783" height="821" alt="image" src="https://github.com/user-attachments/assets/573ac9e2-989a-403d-9a75-015465b46b97" />
 
 
