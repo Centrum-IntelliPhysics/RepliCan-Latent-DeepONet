@@ -2,7 +2,8 @@
 
 ## 1. General info:
 
-This repository contains python codes for reproducing the results of Brittle material fracture example in the paper of "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems".
+This repository contains Python code for reproducing the results of the Brittle material fracture example in the paper titled "Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems". Link to the paper: [Link](https://doi.org/10.1038/s41467-024-49411-w)
+This in
 
 ---
 
