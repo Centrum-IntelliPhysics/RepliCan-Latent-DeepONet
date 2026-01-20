@@ -171,9 +171,12 @@ d=64
 
 
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b" />
-
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/f67e5578-242f-4e9e-a19e-9117140abd0c" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b"
+       width="450" />
+  <img src="https://github.com/user-attachments/assets/f67e5578-242f-4e9e-a19e-9117140abd0c"
+       width="450" />
+</div>
 
 
 
