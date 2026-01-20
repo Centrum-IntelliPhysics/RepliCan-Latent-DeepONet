@@ -160,21 +160,20 @@ d=49
 d=64
 <img width="2775" height="820" alt="image" src="https://github.com/user-attachments/assets/61606bea-27f2-42f1-a831-345d7dbf597a" />
 
-Final MSE Comparison:
+## Final MSE Comparison
 
-Latent Dimension|       MLAE        |  Latent DeepONet
+| Latent Dimension | MLAE MSE | Latent DeepONet MSE |
+|------------------|----------|---------------------|
+| 9                | 0.000035 | 0.000139            |
+| 25               | 0.000039 | 0.000145            |
+| 49               | 0.000032 | 0.000125            |
+| 64               | 0.000034 | 0.000225            |
 
-latent_dim= 9   |   MSE: 0.000035   |   MSE: 0.000139
 
-latent_dim=25   |   MSE: 0.000039   |   MSE: 0.000145
 
-latent_dim=49   |   MSE: 0.000032   |   MSE: 0.000125
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b" />
 
-latent_dim=64   |   MSE: 0.000034   |   MSE: 0.000225
-
-<img width="1772" height="1469" alt="image" src="https://github.com/user-attachments/assets/24d5ec8f-eed2-4781-b1b5-778244e6386b" />
-
-<img width="1772" height="1469" alt="image" src="https://github.com/user-attachments/assets/f67e5578-242f-4e9e-a19e-9117140abd0c" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/f67e5578-242f-4e9e-a19e-9117140abd0c" />
 
 
 
